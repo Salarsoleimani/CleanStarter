@@ -19,8 +19,9 @@ The `Platform` is a concrete implementation of the `Domain` in a specific platfo
 `Application` is responsible for delivering information to the user and handling user input. It can be implemented with any delivery pattern e.g (in Playor is MVVMC). This is the place for `UIView`s and `UIViewController`s. As you will see from the app, `ViewControllers` are completely independent of the `Platform`.  The only responsibility of a view controller is to "bind" the UI to the Domain to make things happen.
 
 ## Next steps
+After clone the project you can change the project name. [See here](https://medium.com/swlh/renaming-a-project-in-xcode-30d0cd96d3ee)
 
-Would you like decide what will be the next feature?
+These are the next steps I will add on this project:
 
 * [ ] Add NetworkPlatform.
 * [ ] Add CoreDataPlatform.
