@@ -5,7 +5,7 @@
 ![](CleanArchitecturesLayers.png)
 
 ## File Directory
-<img src="https://github.com/Salarsoleimani/SwiftLocalNotification/blob/master/StarterDirectory.png" height=600 class="center">
+<img src="https://github.com/Salarsoleimani/CleanStarter/blob/master/StarterDirectory.png" height=600 class="center">
 
 #### Domain 
 
@@ -38,7 +38,7 @@ This is an open source project, so feel free to contribute.
 
 ----
 
-> This idea came because whenever I had to create a new project, It took me a long time to put the initiating things together. Hope you guys enjoy it, Thank you Mom & Dad :heart:.
+> This idea came because whenever I had to create a new project, It took me a long time to put the initiating things together. Hope you guys enjoy it, Thank you :heart:.
 
 ## Author
 
