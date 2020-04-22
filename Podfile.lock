@@ -1,0 +1,64 @@
+PODS:
+  - BEKListKit (1.0.3)
+  - Hero (1.5.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - Siren (5.4.0)
+  - Stellar (0.67)
+  - SwiftRater (1.8.0)
+
+DEPENDENCIES:
+  - BEKListKit
+  - Hero
+  - IQKeyboardManagerSwift
+  - RxCocoa
+  - RxSwift
+  - SDWebImage
+  - Siren
+  - Stellar (from `https://github.com/AugustRush/Stellar.git`)
+  - SwiftRater
+
+SPEC REPOS:
+  trunk:
+    - BEKListKit
+    - Hero
+    - IQKeyboardManagerSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - Siren
+    - SwiftRater
+
+EXTERNAL SOURCES:
+  Stellar:
+    :git: https://github.com/AugustRush/Stellar.git
+
+CHECKOUT OPTIONS:
+  Stellar:
+    :commit: 6c192427621f8b52f3b155d0088e1eabd156abe0
+    :git: https://github.com/AugustRush/Stellar.git
+
+SPEC CHECKSUMS:
+  BEKListKit: eced55022c40444e55975752a03595751286e123
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  Siren: 9df16ed5278cfaad7ea034f3d2206e4f6983e9b8
+  Stellar: df980becd194eeb62d623af097582da0ef2219b9
+  SwiftRater: 6094fa6e9b3866ff8beca0a871b4b5f9ab896a6d
+
+PODFILE CHECKSUM: b68fb64d8a276baa40b0f2abb8e543c5ff1bad80
+
+COCOAPODS: 1.9.0
